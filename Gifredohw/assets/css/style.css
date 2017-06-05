@@ -1,0 +1,67 @@
+
+body {
+    background: url('../images/background2.gif') no-repeat center center fixed;
+    -moz-background-size: cover;
+    -webkit-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#title{
+	text-align: center;
+	font-weight: bold;
+	margin-bottom: 30px;
+	font-size: 30pt;
+	font-family: Times;
+}
+#wrapper{
+	margin: 60px;
+	border: 2px black solid;
+	padding: 30px;
+	border-radius: 10px;
+	opacity: 0.8;
+	background-color: rgba(200, 200, 200, 0.9);
+}
+#directions{
+	text-align: center;
+	padding-bottom: 30px;
+	font-family:Times;
+	font-size: 18pt;
+}
+.imagestyling{
+	display: inline-block;
+	margin: 30px;
+}
+#addSection{
+	text-align: center;
+}
+button{
+	background-color: #02ff00;
+	color: black;
+	border-radius: 25px;
+	font-weight: bold;
+	font-size: 16pt;
+	margin-bottom: 20px;
+	margin-right: 10px;
+	font-family: Times;
+}
+
+p{
+	padding-bottom: 20px;
+}
+.gifStyle{
+	border: 4px black solid;
+}
+
+#gif{
+	text-align: center;
+}
+#addEmotion{
+	text-align: center;
+	background-color: #02ff00;
+	font-weight: bold;
+	border-radius: 10px;
+	font-family: Times;
+}
+#input{
+	border: 2px black solid;
+}
